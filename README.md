@@ -3,22 +3,59 @@
 <a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
 </p>
 
-# openUC2 *PROJECT_NAME*
+# openUC2 *Lightsheet Microscope*
 ---
 
-This repository will help you to build and setup *A NICE TOOL*.
+We will start setting up the documentation to rebuild the UC2-based lightsheet microscope that features a single mode fiber, a low-cost monochromatic camera and an accurate, yet low-cost XYZ stage mechanism.
 
-*DESCRIBE WHAT IT DOES AND WHAT IT IS FOR.*
-
-Curious to see what this looks like? Keep scrolling!
-
-*INCLUDE A NICE PICTURE AND/OR SCHEME.*
+The final result may look like this:
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/LS_1.png"></a>
 </p>
 
-The overall price is in the range *OF LESS THAT A ZILLION*.
+It is inspired by the design of the [openspim](openspim.org).
+
+## Reults
+
+*3D printed Phantom (Nanoscribe)*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/2022_07_11-07-26-22_PM_3DprintedStructure.gif" width="400"></a>
+</p>
+
+*3D Rendering of printed Phantom (Nanoscribe)*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/LS_3Dprint.png" width="400" </a>
+</p>
+
+
+*3D rendering of Daphnia ("Flusskrebs")*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Bildschirmfoto 2022-01-30 um 20.52.25.png" width="400" </a>
+</p>
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Result of 2022_01_30-Daphnia-2.gif" width="400" </a>
+</p>
+
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Bildschirmvideo aufnehmen 2022-01-30 um 20.52.32.mov" width="400" ></a>
+</p>
+
+*Stack of a Zebrafish*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/LS_2.png" width="400" </a>
+</p>
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Zebrafish 08_06_10.04.05_Zebrafish-1.gif" width="400" </a>
+</p>
+
 
 
 ***Features:***
@@ -26,13 +63,6 @@ The overall price is in the range *OF LESS THAT A ZILLION*.
 * IT TAKES IMAGES?!
 * IT DOES YOUR LAUNDRY?!
 
-
-# Table of Content
-* **[Software](#-software)**
-* **[Hardware](#-hardware)**
-* **[Bill of materials](#-bill-of-materials)**
-* **[Electronics](#-electronics)**
-* **[Results](#-results)**
 
 
 ## In-Action
@@ -126,7 +156,7 @@ The original design files are in the [INVENTOR](./INVENTOR) folder. *FOR ANOTHER
 
 # Resouces Galvo
 
-Some links 
+Some links
 
 Open-Source board using the ESP32
 https://oshwlab.com/chris_9044/laser-show-driver-breadboard
