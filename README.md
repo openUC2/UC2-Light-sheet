@@ -123,6 +123,21 @@ The original design files are in the [INVENTOR](./INVENTOR) folder. *FOR ANOTHER
 ***Fig 1.*** *MY MOST AWSOME IMAGE*
 
 
+
+# Resouces Galvo
+
+Some links 
+
+Open-Source board using the ESP32
+https://oshwlab.com/chris_9044/laser-show-driver-breadboard
+
+Code for ESP32 + Galvo
+https://github.com/atomic14/esp32-laser-show
+
+How do Galvos look from the inside?
+https://www.youtube.com/watch?v=HIBH55cbfLM
+
+
 ## Get Involved
 
 This project is open so that anyone can get involved. You don't even have to learn CAD designing or programming. Find ways you can contribute in  [CONTRIBUTING](https://github.com/openUC2/UC2-GIT/blob/master/CONTRIBUTING.md)
